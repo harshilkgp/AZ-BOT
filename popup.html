@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AZ Chat Bot</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div id="setup-section">
+    <h3>API Key</h3>
+    <input type="text" id="apiKeyInput" placeholder="Enter API Key">
+    <button id="saveButton">Save API Key</button>
+  </div>
+  <div id="edit-section" style="display: none;">
+    <h3>Enter Your API Key:</h3>
+    <input type="text" id="editApiKeyInput" readonly>
+    <button id="editButton">Edit</button>
+    <button id="saveEditButton" style="display: none;">Save</button>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
