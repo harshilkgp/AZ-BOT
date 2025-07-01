@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "AZ Chat Bot",
     "version": "0.1",
-    "author": "Shivani Sharma",
+    "author": "Harshil Jain",
     "description": "Helps to solve AZ problemset using AI Chat Bot",
     "permissions": [
       "storage",
