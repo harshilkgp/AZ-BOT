@@ -21,12 +21,12 @@
     "background": {
       "service_worker": "background.js"
     },
-    "web_accessible_resources" : [
-      {
-        "resources": ["inject.js"],
-        "matches" : ["<all_urls>"]
-      }
-    ],
+    "web_accessible_resources": [
+  {
+    "resources": ["inject.js"],
+    "matches": ["<all_urls>"]
+  }
+],
     "action": {
       "default_icon": {
         "16": "assets/ext-icon.png",
