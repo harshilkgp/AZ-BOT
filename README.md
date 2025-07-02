@@ -22,9 +22,3 @@ AZ Bot is a browser extension that provides a set of tools to automate tasks, im
 - Click the AZ Bot icon in your browser toolbar to open the popup and access features.
 - The extension will automatically inject scripts as needed based on your browsing activity.
 - Configure settings via the popup as required.
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License
-This project is licensed under the MIT License. 
